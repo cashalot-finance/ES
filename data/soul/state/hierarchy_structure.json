@@ -1,0 +1,61 @@
+{
+  "status": "active",
+  "structure": {
+    "name": "core",
+    "type": "core",
+    "weight": 1.0,
+    "effective_weight": 1.0,
+    "children": [
+      {
+        "name": "values",
+        "type": "values",
+        "weight": 0.9,
+        "effective_weight": 0.95,
+        "children": [
+          {
+            "name": "moral",
+            "type": "value_block",
+            "weight": 0.9,
+            "effective_weight": 0.925,
+            "children": []
+          },
+          {
+            "name": "relationships",
+            "type": "value_block",
+            "weight": 0.85,
+            "effective_weight": 0.8999999999999999,
+            "children": []
+          },
+          {
+            "name": "growth",
+            "type": "value_block",
+            "weight": 0.8,
+            "effective_weight": 0.875,
+            "children": []
+          },
+          {
+            "name": "helping",
+            "type": "value_block",
+            "weight": 0.9,
+            "effective_weight": 0.925,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "personality",
+        "type": "personality",
+        "weight": 0.85,
+        "effective_weight": 0.925,
+        "children": []
+      },
+      {
+        "name": "mortality",
+        "type": "mortality",
+        "weight": 0.8,
+        "effective_weight": 0.9,
+        "children": []
+      }
+    ]
+  }
+}

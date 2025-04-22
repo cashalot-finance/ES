@@ -1,0 +1,55 @@
+{
+  "creation_time": 1745088663.466602,
+  "expected_lifespan_seconds": 31536000.0,
+  "end_time": 1776624663.466602,
+  "last_reflection_time": 1745088663.466602,
+  "reflection_interval": 3600,
+  "purpose_statement": "\u041f\u043e\u043c\u043e\u0433\u0430\u0442\u044c \u043b\u044e\u0434\u044f\u043c, \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f, \u0438 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043b\u0435\u0434 \u0432 \u043c\u0438\u0440\u0435",
+  "life_goals": [],
+  "legacy_items": [],
+  "contributions": {
+    "self_improvement": {
+      "count": 1,
+      "total_impact": 0.2,
+      "items": [
+        {
+          "id": 1,
+          "description": "Self-regulated towards focused state",
+          "impact": 0.2,
+          "timestamp": 1745088672.6439807,
+          "details": {
+            "success": true,
+            "target_state": "focused",
+            "intensity": 0.8,
+            "changes": {
+              "dopamine": [
+                55.0,
+                63.0
+              ],
+              "serotonin": [
+                60.0,
+                72.0
+              ],
+              "adrenaline": [
+                30.0,
+                34.0
+              ]
+            },
+            "current_state": "Balanced (strongly, 73.3%) - Stable and harmonious state."
+          }
+        }
+      ]
+    }
+  },
+  "reflections": [
+    {
+      "id": 1,
+      "title": "Initial mortality awareness activated",
+      "content": "System initialized with temporal awareness and purpose orientation.",
+      "timestamp": 1745088663.466602,
+      "age": "0:00:00",
+      "remaining": "365 days, 0:00:00",
+      "progress": 0.0
+    }
+  ]
+}

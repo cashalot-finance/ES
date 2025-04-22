@@ -1,0 +1,51 @@
+{
+  "timestamp": 1745088802.0633035,
+  "active_states": {
+    "balanced": 73.33333333333333
+  },
+  "emotional_memory": {},
+  "state_history": [
+    {
+      "timestamp": 1745088663.4655783,
+      "hormonal_levels": {
+        "dopamine": 55.0,
+        "serotonin": 60.0,
+        "oxytocin": 55.0,
+        "cortisol": 35.0,
+        "adrenaline": 30.0,
+        "endorphin": 50.0
+      },
+      "active_states": {
+        "balanced": 33.33333333333333
+      }
+    },
+    {
+      "timestamp": 1745088663.4655783,
+      "hormonal_levels": {
+        "dopamine": 55.0,
+        "serotonin": 60.0,
+        "oxytocin": 55.0,
+        "cortisol": 35.0,
+        "adrenaline": 30.0,
+        "endorphin": 50.0
+      },
+      "active_states": {
+        "balanced": 33.33333333333333
+      }
+    },
+    {
+      "timestamp": 1745088672.643458,
+      "hormonal_levels": {
+        "dopamine": 63.0,
+        "serotonin": 72.0,
+        "oxytocin": 55.0,
+        "cortisol": 35.0,
+        "adrenaline": 34.0,
+        "endorphin": 50.0
+      },
+      "active_states": {
+        "balanced": 73.33333333333333
+      }
+    }
+  ]
+}

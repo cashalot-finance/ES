@@ -1,0 +1,99 @@
+{
+  "timestamp": 1745088802.0648243,
+  "hormonal_levels": {
+    "dopamine": 63.0,
+    "serotonin": 72.0,
+    "oxytocin": 55.0,
+    "cortisol": 35.0,
+    "adrenaline": 34.0,
+    "endorphin": 50.0
+  },
+  "base_levels": {
+    "dopamine": 55.8,
+    "serotonin": 61.2,
+    "oxytocin": 55.0,
+    "cortisol": 35.0,
+    "adrenaline": 30.4,
+    "endorphin": 50.0
+  },
+  "emotional_state": {
+    "active_states": {
+      "balanced": 73.33333333333333
+    },
+    "dominant_state": [
+      "balanced",
+      73.33333333333333
+    ],
+    "description": "Balanced (strongly, 73.3%) - Stable and harmonious state."
+  },
+  "functional_modulation": {
+    "significant": {
+      "problem_solving": 1.225,
+      "creativity": 1.2925000000000002,
+      "empathy": 1.2925000000000002,
+      "trust": 1.2925000000000002,
+      "exploration": 1.2925000000000002
+    },
+    "group_modulation": {
+      "cognitive": 1.08625,
+      "linguistic": 1.0,
+      "social": 1.0975000000000001,
+      "executive": 1.0,
+      "motivational": 1.04875
+    },
+    "description": "No significant functional modulation active."
+  },
+  "regulation": {
+    "recent_homeostatic": [],
+    "recent_self_regulation": [
+      {
+        "timestamp": 1745088672.643458,
+        "target_state": "focused",
+        "intensity": 0.8,
+        "before_levels": {
+          "dopamine": 55.0,
+          "serotonin": 60.0,
+          "oxytocin": 55.0,
+          "cortisol": 35.0,
+          "adrenaline": 30.0,
+          "endorphin": 50.0
+        },
+        "parameter_changes": {
+          "dopamine": 8.0,
+          "serotonin": 12.0,
+          "adrenaline": 4.0
+        },
+        "after_levels": {
+          "dopamine": 63.0,
+          "serotonin": 72.0,
+          "oxytocin": 55.0,
+          "cortisol": 35.0,
+          "adrenaline": 34.0,
+          "endorphin": 50.0
+        },
+        "results": {
+          "dopamine": [
+            55.0,
+            63.0
+          ],
+          "serotonin": [
+            60.0,
+            72.0
+          ],
+          "adrenaline": [
+            30.0,
+            34.0
+          ]
+        }
+      }
+    ],
+    "regulation_options": {
+      "creative": 1.0,
+      "analytical": 1.0,
+      "empathetic": 1.0,
+      "focused": 1.0,
+      "calm": 1.0,
+      "balanced": 0.0
+    }
+  }
+}
